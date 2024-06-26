@@ -1,5 +1,7 @@
 # unblocked-games-premium
 
+<img src="https://github.com/KaylinaMfuyen/unblocked-games-premium/blob/main/gp.png"/>
+
 ***Unblocked Games Premium - Unblock & Play Premium Online HTML Games in your Browser!***
 
 🔥 **Unblocked Games Premium Chrome Extension - Your Gateway to Endless Gaming Fun** 🔥
@@ -20,3 +22,4 @@ Simplicity is at the heart of the Unblocked Games Premium Chrome extension. It's
 
 +  Start playing
 
+[<img src="https://github.com/KaylinaMfuyen/unblocked-games-premium/blob/main/gs.png"/>](https://bit.ly/3RKt1jM)
